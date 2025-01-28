@@ -7,3 +7,5 @@ You can play the game at: https://github.com/gh-dev-ws-20250127/github-games-nun
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
+
+
